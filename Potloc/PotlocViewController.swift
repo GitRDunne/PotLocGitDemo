@@ -78,7 +78,7 @@ class PotlocViewController: UIViewController, WCSessionDelegate, CLLocationManag
     }
     
     var notUpdatingLocationText: String {
-        return NSLocalizedString("Location manager not updating location", comment: "Inform user the location manager is not updating location")
+        return NSLocalizedString("Location manager not updating location", comment: "Inform user the location manager is not updating locationnnn")
     }
     
     var startButtonTitle: String {
